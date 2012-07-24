@@ -1,0 +1,6 @@
+[submodule "drupal_ubuntu"]
+	path = drupal_ubuntu
+	url = git://github.com/Bodich/drupal_ubuntu.git
+[submodule "path"]
+	path = path
+	url = git://github.com/Bodich/drupal_ubuntu.git
